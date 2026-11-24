@@ -52,8 +52,8 @@
 </p>
 
 <p>
-  <strong><a href="https://github.com/luckymonkey-monkey/openclaw">openclaw</a></strong> · <code>Fork</code><br />
-  Exploring personal AI assistants and agent workflows.
+  <strong><a href="https://github.com/luckymonkey-monkey/MPP">MPP</a></strong> · <code>Molecular Machine Learning</code><br />
+  A graph neural network that predicts photothermal conversion efficiency from molecular SMILES strings.
 </p>
 
 </td>
