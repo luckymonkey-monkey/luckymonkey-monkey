@@ -47,8 +47,7 @@
 </p>
 
 <p>
-  <strong><a href="https://github.com/luckymonkey-monkey/zotero-arxiv-daily">zotero-arxiv-daily</a></strong> · <code>Fork</code><br />
-  Daily arXiv paper recommendations based on a Zotero library.
+  <strong><a href="https://github.com/luckymonkey-monkey/CORA">CORA</a></strong>
 </p>
 
 <p>
