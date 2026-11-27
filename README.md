@@ -47,7 +47,7 @@
 </p>
 
 <p>
-  <strong><a href="https://github.com/luckymonkey-monkey/CORA">CORA</a></strong> · <code>Driving Risk Assessment</code><br />
+  <strong><a href="https://github.com/luckymonkey-monkey/CORA">CORA</a></strong> · <code>MLLM Combines Event Context</code><br />
   Estimates collision risk by comparing the driver's observed response with the responses expected from the road scene.
 </p>
 
