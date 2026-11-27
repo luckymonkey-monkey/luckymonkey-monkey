@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/intro.svg" width="760" alt="Hi, I'm Hongyu. Multimodal AI Engineer." />
+  <img src="./assets/intro.svg" width="760" alt="Hi, I'm Hongyu. MLLM AI Engineer." />
 
   <p>
-    👋 <strong>Exploring multimodal intelligence for safer, smarter driving.</strong>
+    👋 <strong>Exploring multimodal intelligence.</strong>
   </p>
 
   <p>
@@ -47,7 +47,8 @@
 </p>
 
 <p>
-  <strong><a href="https://github.com/luckymonkey-monkey/CORA">CORA</a></strong>
+  <strong><a href="https://github.com/luckymonkey-monkey/CORA">CORA</a></strong> · <code>Driving Risk Assessment</code><br />
+  Estimates collision risk by comparing the driver's observed response with the responses expected from the road scene.
 </p>
 
 <p>
