@@ -42,8 +42,8 @@
 #### 💻 Open Source & Exploration
 
 <p>
-  <strong><a href="https://github.com/luckymonkey-monkey/UniJourney">UniJourney</a></strong> · <code>Research Reproduction</code><br />
-  A UniUGP reproduction combining scene understanding, trajectory planning, and future video generation, with staged training, inference, and evaluation tools.
+  <strong><a href="https://github.com/luckymonkey-monkey/UniJourney">UniJourney</a></strong> · <code>World Model</code><br />
+  A model combining scene understanding, trajectory planning, and future video generation, with staged training, inference, and evaluation tools.
 </p>
 
 <p>
