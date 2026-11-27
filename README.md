@@ -21,7 +21,7 @@
 #### 🔬 Research & Engineering
 
 <p>
-  <strong>Traffic Foundation Models</strong><br />
+  <strong>Foundation Models</strong><br />
   <code>Mid-training</code> <code>Post-training</code><br />
   Qwen-VL for general, on-road, and in-cabin (DMS / OMS) reasoning. Qwen-Omni for speech understanding and generation.
 </p>
