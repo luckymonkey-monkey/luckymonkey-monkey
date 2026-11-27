@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/intro.svg" width="760" alt="Hi, I'm Lucky. Multimodal AI Engineer." />
+  <img src="./assets/intro.svg" width="760" alt="Hi, I'm Hongyu. Multimodal AI Engineer." />
 
   <p>
     👋 <strong>Exploring multimodal intelligence for safer, smarter driving.</strong>
